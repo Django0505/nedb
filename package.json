@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "async": "0.2.10",
-    "underscore": "~1.4.4",
+    "underscore": "~1.12.1",
     "binary-search-tree": "0.2.4",
     "mkdirp": "~0.3.5"
   },
